@@ -1,0 +1,2 @@
+# TP32
+Mise en place d’un pipeline CI/CD microservices avec Jenkins, GitHub, SonarQube, Docker Compose et Ngrok
